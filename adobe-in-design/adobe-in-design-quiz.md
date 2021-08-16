@@ -36,3 +36,10 @@
 - [ ] Right-click the page with the place cursor.
 - [x] Shift-click with the place cursor inside the margin guides.
 - [ ] In the **Pages** panel, click the **New Pages** button with the place cursor.
+
+#### Q6. You select a graphic frame that contains a Photoshop image and use the Scale field in the Control panel to enlarge it to 200%. What happens to the effective image resolution?
+
+- [ ] The resolution doubles
+- [ ] Effective image resolution is set in Photoshop, not in InDesign, so it stays the same
+- [x] The resolution is cut in half
+- [ ] Effective image resolution stays the same until you choose from the View > Display Perfomance menu
